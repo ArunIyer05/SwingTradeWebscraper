@@ -1,0 +1,2 @@
+This is a modification of Zacks-Stock-Webscraper by YashiDev556. It can be used to parse and collect various types of NYSE stock data such as analyst ratings, analyst 1-year price targets, and upcoming earnings dates. All of this information can be used to make short-term and mid-term stock decisions based on the consensus
+of Wall Street analysts. Improvements from Zacks-Stock-Webscraper include improved functionality (more variety of data searching) and bug fixes to make the program more user friendly.
